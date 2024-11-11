@@ -1,0 +1,8 @@
+site_name: "teste-react-template"
+site_description: 
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
